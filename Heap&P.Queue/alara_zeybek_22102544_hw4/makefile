@@ -1,0 +1,2 @@
+snack: alara_zeybek_22102544_Snack.o alara_zeybek_22102544_SnackHashing.o alara_zeybek_22102544_Accompaniment.o alara_zeybek_22102544_AccompanimentHashing.o alara_zeybek_22102544_main.o
+	g++ alara_zeybek_22102544_Snack.cpp alara_zeybek_22102544_SnackHashing.cpp alara_zeybek_22102544_Accompaniment.cpp alara_zeybek_22102544_AccompanimentHashing.cpp alara_zeybek_22102544_main.cpp -o hw4.o
